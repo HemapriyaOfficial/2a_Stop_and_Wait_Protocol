@@ -44,4 +44,4 @@ while True:
 ![321726297-553fc679-cac0-47e7-b3f3-4d6e592d134d](https://github.com/HemapriyaOfficial/2a_Stop_and_Wait_Protocol/assets/147114275/0d306ad1-58a1-487b-a4d6-6f186f94e89a)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed.
+
